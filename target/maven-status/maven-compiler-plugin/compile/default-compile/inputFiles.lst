@@ -1,0 +1,9 @@
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/service/UserService.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/service/EmailSenderService.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/model/User.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/model/ConfirmationToken.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/config/SecurityConfiguration.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/service/repository/UserRepository.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/service/repository/ConfirmationTokenRepository.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/controller/UserAccountController.java
+/home/teknogrot/project/src/main/java/com/springsecurity/demo/RunApplication.java

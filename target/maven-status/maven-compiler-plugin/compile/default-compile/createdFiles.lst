@@ -1,0 +1,9 @@
+com/springsecurity/demo/service/EmailSenderService.class
+com/springsecurity/demo/RunApplication.class
+com/springsecurity/demo/model/User.class
+com/springsecurity/demo/service/UserService.class
+com/springsecurity/demo/controller/UserAccountController.class
+com/springsecurity/demo/service/repository/ConfirmationTokenRepository.class
+com/springsecurity/demo/model/ConfirmationToken.class
+com/springsecurity/demo/service/repository/UserRepository.class
+com/springsecurity/demo/config/SecurityConfiguration.class
